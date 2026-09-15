@@ -1,0 +1,9 @@
+.brand-mark {
+  background: url('/favicon.svg') center / cover no-repeat !important;
+  color: transparent;
+  font-size: 0;
+  box-shadow: 0 5px 12px rgba(217, 95, 69, 0.24);
+}
+.footer .brand-mark {
+  box-shadow: none;
+}

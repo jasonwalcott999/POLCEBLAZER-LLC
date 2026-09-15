@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://[your-domain]/</loc></url>
+  <url><loc>https://[your-domain]/services</loc></url>
+  <url><loc>https://[your-domain]/solutions</loc></url>
+  <url><loc>https://[your-domain]/industries</loc></url>
+  <url><loc>https://[your-domain]/process</loc></url>
+  <url><loc>https://[your-domain]/about</loc></url>
+  <url><loc>https://[your-domain]/insights</loc></url>
+  <url><loc>https://[your-domain]/contact</loc></url>
+</urlset>
